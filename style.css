@@ -1,0 +1,26 @@
+body {
+  padding: 24px;
+  padding-left: 50px;
+
+}
+
+h1 {
+  font-family: courier, monospace;
+  font-size: 50px;
+  line-height: 2em;
+  color: purple;
+}
+
+h2 {
+  font-family: courier, monospace;
+  font-size: 50px;
+  line-height: 2em;
+  color: purple;
+}
+
+p,li {
+  font-family: courier, monospace;
+  font-size: 15px;
+  line-height: 2em;
+  color: black;
+}
